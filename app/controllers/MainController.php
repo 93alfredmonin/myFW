@@ -14,7 +14,7 @@ use vendor\core\base\View;
 class MainController extends AppController {
 
     public function indexAction() {
-        $model = new \app\models\Main;
+        $model = new Main;
         $posts = \R::findAll('posts');
         $post = \R::findOne("posts", "id = 1");
         $menu = $this->menu;

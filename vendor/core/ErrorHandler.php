@@ -1,15 +1,18 @@
 <?php
 
-define("DEBUG", 1);
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
 
-class NotFoundException extends Exception {
+namespace vendor\core;
 
-    public function __construct($message = ' ', $code = 404) {
-        parent::__construct($message, $code);
-    }
-
-}
-
+/**
+ * Description of ErrorHandler
+ *
+ * @author alfred
+ */
 class ErrorHandler {
 
     public function __construct() {
@@ -69,17 +72,3 @@ class ErrorHandler {
     }
 
 }
-
-new ErrorHandler();
-//echo $test;
-//test();
-//try {
-//    if (empty($test)){
-//        throw new Exception('Упс, исключение');
-//    }
-//
-//} catch (Exception $e){
-//    var_dump($e);
-//}
-//throw new NotFoundException('Страница не найдена');
-//throw new Exception('Упс, исключение', 404);
