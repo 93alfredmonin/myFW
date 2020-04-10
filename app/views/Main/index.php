@@ -1,4 +1,5 @@
 <div class="container">
+    <div id="answer"></div>
     <button class="btn btn-default" id="send" >Кнопка</button>
     <?php if (!empty($posts)) : ?>
         <?php foreach ($posts as $post) : ?>
@@ -22,7 +23,10 @@
                 type: 'post',
                 data: {'id': 2},
                 success: function (res) {
-                    console.log(res);
+//                    var data = JSON.parse(res);
+//                    $('#answer').html('<p>Ответ: ' + data.answer + ' | Код: ' + data.code + '</p>');
+                    $('#answer').html(res);
+//                    console.log(res);
                 },
                 error: function () {
                     alert('ERROR!');
