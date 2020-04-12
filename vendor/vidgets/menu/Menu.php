@@ -20,7 +20,6 @@ class Menu {
         $this->data = \R::getAssoc("SELECT * FROM categories");
         $this->tree = $this->getTree();
         debug($this->tree);
-        
     }
 
     protected function getTree() {
@@ -36,6 +35,14 @@ class Menu {
         }
 
         return $tree;
+    }
+
+    protected function getMenuHtml($tree, $tab = ' ') {
+        
+    }
+
+    protected function catToTamplate($category, $tab, $id) {
+        
     }
 
 }
