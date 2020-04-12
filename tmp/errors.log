@@ -54,3 +54,11 @@
 
 **********
 
+[2020-04-12 12 : 43 : 49] Текст ошибки: Too few arguments to function vendor\vidgets\menu\Menu::getTree(), 0 passed in /home/alfred/php curs online/fw/vendor/vidgets/menu/Menu.php on line 21 and exactly 1 expected | Файл: /home/alfred/php curs online/fw/vendor/vidgets/menu/Menu.php | Строка: 26
+
+**********
+
+[2020-04-12 12 : 44 : 18] Текст ошибки: Too few arguments to function vendor\vidgets\menu\Menu::getTree(), 0 passed in /home/alfred/php curs online/fw/vendor/vidgets/menu/Menu.php on line 21 and exactly 1 expected | Файл: /home/alfred/php curs online/fw/vendor/vidgets/menu/Menu.php | Строка: 26
+
+**********
+

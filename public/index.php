@@ -5,7 +5,7 @@
 use vendor\core\Router;
 
 $query = rtrim($_SERVER['REQUEST_URI'], '/');
-define('DEBUG', 0);
+define('DEBUG', 1);
 define('WWW', __DIR__);
 define('CORE', dirname(__DIR__) . '/vendor/core');
 define('ROOT', dirname(__DIR__));
