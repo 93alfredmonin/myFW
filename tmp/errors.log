@@ -62,3 +62,31 @@
 
 **********
 
+[2020-04-12 14 : 02 : 49] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fw.categoris' doesn't exist | Файл: /home/alfred/php curs online/fw/vendor/libs/rb.php | Строка: 810
+
+**********
+
+[2020-04-12 14 : 07 : 13] Текст ошибки: require(/home/alfred/php curs online/fw/vendor/vidgets/menu/menu_tpl/menu.phps): failed to open stream: No such file or directory | Файл: /home/alfred/php curs online/fw/vendor/vidgets/menu/Menu.php | Строка: 68
+
+**********
+
+[2020-04-12 14 : 11 : 06] Текст ошибки: require(/home/alfred/php curs online/fw/vendor/vidgets/menu/menu_tpl/menu.phps): failed to open stream: No such file or directory | Файл: /home/alfred/php curs online/fw/vendor/vidgets/menu/Menu.php | Строка: 68
+
+**********
+
+[2020-04-12 14 : 11 : 08] Текст ошибки: require(/home/alfred/php curs online/fw/vendor/vidgets/menu/menu_tpl/menu.phps): failed to open stream: No such file or directory | Файл: /home/alfred/php curs online/fw/vendor/vidgets/menu/Menu.php | Строка: 68
+
+**********
+
+[2020-04-12 14 : 18 : 53] Текст ошибки: require(/home/alfred/php curs online/fw/vendor/vidgets/menu/menu_tpl/menu.phps): failed to open stream: No such file or directory | Файл: /home/alfred/php curs online/fw/vendor/vidgets/menu/Menu.php | Строка: 69
+
+**********
+
+[2020-04-12 14 : 38 : 22] Текст ошибки: require(/home/alfred/php curs online/fw/app/views/Main/menu/my_select.php): failed to open stream: No such file or directory | Файл: /home/alfred/php curs online/fw/vendor/vidgets/menu/Menu.php | Строка: 69
+
+**********
+
+[2020-04-12 14 : 38 : 47] Текст ошибки: require(/home/alfred/php curs online/fw/app/views/Main/menu/select.php): failed to open stream: No such file or directory | Файл: /home/alfred/php curs online/fw/vendor/vidgets/menu/Menu.php | Строка: 69
+
+**********
+
