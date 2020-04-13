@@ -90,3 +90,151 @@
 
 **********
 
+[2020-04-13 11 : 26 : 15] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/core/Router.php | Строка: 58
+
+**********
+
+[2020-04-13 11 : 26 : 58] Текст ошибки: Контроллер <b>app\controllers\TestController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/core/Router.php | Строка: 58
+
+**********
+
+[2020-04-13 11 : 27 : 20] Текст ошибки: Контроллер <b>app\controllers\TestController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/core/Router.php | Строка: 58
+
+**********
+
+[2020-04-13 11 : 29 : 34] Текст ошибки: Контроллер <b>app\controllers\TestController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/core/Router.php | Строка: 59
+
+**********
+
+[2020-04-13 11 : 32 : 39] Текст ошибки: Контроллер <b>app\controllers\TestController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/core/Router.php | Строка: 60
+
+**********
+
+[2020-04-13 11 : 33 : 08] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/core/Router.php | Строка: 60
+
+**********
+
+[2020-04-13 11 : 37 : 06] Текст ошибки: Undefined variable: rote | Файл: /home/alfred/php curs online/fw/vendor/core/Router.php | Строка: 35
+
+**********
+
+[2020-04-13 11 : 37 : 27] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/core/Router.php | Строка: 65
+
+**********
+
+[2020-04-13 11 : 37 : 54] Текст ошибки: Контроллер <b>app\controllers\TestController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/core/Router.php | Строка: 65
+
+**********
+
+[2020-04-13 11 : 38 : 04] Текст ошибки: Контроллер <b>app\controllers\TestController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/core/Router.php | Строка: 65
+
+**********
+
+[2020-04-13 11 : 41 : 34] Текст ошибки: Контроллер <b>app\controllers\admin\TestController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/core/Router.php | Строка: 64
+
+**********
+
+[2020-04-13 12 : 09 : 59] Текст ошибки: Контроллер <b>app\controllers\ MainController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/core/Router.php | Строка: 64
+
+**********
+
+[2020-04-13 12 : 14 : 44] Текст ошибки: <p>Не найден вид <b>/home/alfred/php curs online/fw/app/views/admin\User/index.php</b></p> | Файл: /home/alfred/php curs online/fw/vendor/core/base/View.php | Строка: 44
+
+**********
+
+[2020-04-13 12 : 19 : 49] Текст ошибки: <p>Не найден вид <b>/home/alfred/php curs online/fw/app/views/admin\User/index.php</b></p> | Файл: /home/alfred/php curs online/fw/vendor/core/base/View.php | Строка: 44
+
+**********
+
+[2020-04-13 12 : 19 : 53] Текст ошибки: <p>Не найден вид <b>/home/alfred/php curs online/fw/app/views/admin\User/index.php</b></p> | Файл: /home/alfred/php curs online/fw/vendor/core/base/View.php | Строка: 44
+
+**********
+
+[2020-04-13 12 : 23 : 17] Текст ошибки: <p>Не найден вид <b>/home/alfred/php curs online/fw/app/views/admin\User/index.php</b></p> | Файл: /home/alfred/php curs online/fw/vendor/core/base/View.php | Строка: 44
+
+**********
+
+[2020-04-13 12 : 23 : 54] Текст ошибки: <p>Не найден вид <b>/home/alfred/php curs online/fw/app/views/admin\User/index.php</b></p> | Файл: /home/alfred/php curs online/fw/vendor/core/base/View.php | Строка: 44
+
+**********
+
+[2020-04-13 12 : 25 : 13] Текст ошибки: <p>Не найден вид <b>/home/alfred/php curs online/fw/app/views/admin\User/index.php</b></p> | Файл: /home/alfred/php curs online/fw/vendor/core/base/View.php | Строка: 44
+
+**********
+
+[2020-04-13 12 : 25 : 26] Текст ошибки: <p>Не найден вид <b>/home/alfred/php curs online/fw/app/views/admin\User/index.php</b></p> | Файл: /home/alfred/php curs online/fw/vendor/core/base/View.php | Строка: 44
+
+**********
+
+[2020-04-13 12 : 27 : 25] Текст ошибки: <p>Не найден вид <b>/home/alfred/php curs online/fw/app/views/admin\User/index.php</b></p> | Файл: /home/alfred/php curs online/fw/vendor/core/base/View.php | Строка: 44
+
+**********
+
+[2020-04-13 12 : 27 : 26] Текст ошибки: <p>Не найден вид <b>/home/alfred/php curs online/fw/app/views/admin\User/index.php</b></p> | Файл: /home/alfred/php curs online/fw/vendor/core/base/View.php | Строка: 44
+
+**********
+
+[2020-04-13 12 : 27 : 26] Текст ошибки: <p>Не найден вид <b>/home/alfred/php curs online/fw/app/views/admin\User/index.php</b></p> | Файл: /home/alfred/php curs online/fw/vendor/core/base/View.php | Строка: 44
+
+**********
+
+[2020-04-13 12 : 27 : 27] Текст ошибки: <p>Не найден вид <b>/home/alfred/php curs online/fw/app/views/admin\User/index.php</b></p> | Файл: /home/alfred/php curs online/fw/vendor/core/base/View.php | Строка: 44
+
+**********
+
+[2020-04-13 12 : 27 : 27] Текст ошибки: <p>Не найден вид <b>/home/alfred/php curs online/fw/app/views/admin\User/index.php</b></p> | Файл: /home/alfred/php curs online/fw/vendor/core/base/View.php | Строка: 44
+
+**********
+
+[2020-04-13 12 : 27 : 27] Текст ошибки: <p>Не найден вид <b>/home/alfred/php curs online/fw/app/views/admin\User/index.php</b></p> | Файл: /home/alfred/php curs online/fw/vendor/core/base/View.php | Строка: 44
+
+**********
+
+[2020-04-13 12 : 27 : 28] Текст ошибки: <p>Не найден вид <b>/home/alfred/php curs online/fw/app/views/admin\User/index.php</b></p> | Файл: /home/alfred/php curs online/fw/vendor/core/base/View.php | Строка: 44
+
+**********
+
+[2020-04-13 12 : 27 : 28] Текст ошибки: <p>Не найден вид <b>/home/alfred/php curs online/fw/app/views/admin\User/index.php</b></p> | Файл: /home/alfred/php curs online/fw/vendor/core/base/View.php | Строка: 44
+
+**********
+
+[2020-04-13 12 : 27 : 28] Текст ошибки: <p>Не найден вид <b>/home/alfred/php curs online/fw/app/views/admin\User/index.php</b></p> | Файл: /home/alfred/php curs online/fw/vendor/core/base/View.php | Строка: 44
+
+**********
+
+[2020-04-13 12 : 27 : 28] Текст ошибки: <p>Не найден вид <b>/home/alfred/php curs online/fw/app/views/admin\User/index.php</b></p> | Файл: /home/alfred/php curs online/fw/vendor/core/base/View.php | Строка: 44
+
+**********
+
+[2020-04-13 12 : 27 : 29] Текст ошибки: <p>Не найден вид <b>/home/alfred/php curs online/fw/app/views/admin\User/index.php</b></p> | Файл: /home/alfred/php curs online/fw/vendor/core/base/View.php | Строка: 44
+
+**********
+
+[2020-04-13 12 : 27 : 29] Текст ошибки: <p>Не найден вид <b>/home/alfred/php curs online/fw/app/views/admin\User/index.php</b></p> | Файл: /home/alfred/php curs online/fw/vendor/core/base/View.php | Строка: 44
+
+**********
+
+[2020-04-13 12 : 27 : 29] Текст ошибки: <p>Не найден вид <b>/home/alfred/php curs online/fw/app/views/admin\User/index.php</b></p> | Файл: /home/alfred/php curs online/fw/vendor/core/base/View.php | Строка: 44
+
+**********
+
+[2020-04-13 12 : 27 : 29] Текст ошибки: <p>Не найден вид <b>/home/alfred/php curs online/fw/app/views/admin\User/index.php</b></p> | Файл: /home/alfred/php curs online/fw/vendor/core/base/View.php | Строка: 44
+
+**********
+
+[2020-04-13 12 : 27 : 29] Текст ошибки: <p>Не найден вид <b>/home/alfred/php curs online/fw/app/views/admin\User/index.php</b></p> | Файл: /home/alfred/php curs online/fw/vendor/core/base/View.php | Строка: 44
+
+**********
+
+[2020-04-13 12 : 27 : 30] Текст ошибки: <p>Не найден вид <b>/home/alfred/php curs online/fw/app/views/admin\User/index.php</b></p> | Файл: /home/alfred/php curs online/fw/vendor/core/base/View.php | Строка: 44
+
+**********
+
+[2020-04-13 12 : 27 : 30] Текст ошибки: <p>Не найден вид <b>/home/alfred/php curs online/fw/app/views/admin\User/index.php</b></p> | Файл: /home/alfred/php curs online/fw/vendor/core/base/View.php | Строка: 44
+
+**********
+
+[2020-04-13 12 : 37 : 38] Текст ошибки: <p>Не найден вид <b>/home/alfred/php curs online/fw/app/views/admin/User/index.php</b></p> | Файл: /home/alfred/php curs online/fw/vendor/core/base/View.php | Строка: 46
+
+**********
+
