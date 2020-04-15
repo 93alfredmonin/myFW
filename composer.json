@@ -1,0 +1,13 @@
+{
+    "name": "alfred/fw",
+    "require": {
+        "monolog/monolog": "^2.0",
+        "phpmailer/phpmailer": "^6.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "fw\\": "vendor/fw",
+            "app\\": "app"
+        }
+    }
+}
