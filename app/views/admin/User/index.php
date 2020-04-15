@@ -1,7 +1,5 @@
-<code><?=__FILE__?></code>
+<code><?= __FILE__; ?></code>
 <br>
-<?=$test;?>
+<?= $test ?>
 <br>
-<?php
-debug($data);
-?>
+<?php debug($data); ?>

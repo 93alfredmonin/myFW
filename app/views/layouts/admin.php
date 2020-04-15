@@ -29,7 +29,7 @@
                     <?php endforeach; ?>
                 </ul>
             <?php endif; ?>
-            <h1>Hello, ADMIN!</h1>
+            <h1>ADMIN ADMIN</h1>
 
             <?= $content ?>
 

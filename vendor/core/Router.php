@@ -30,7 +30,9 @@ class Router {
                 if (!isset($route['action'])) {
                     $route['action'] = 'index';
                 }
+                
                 // prefx for admin controllers
+                
                 if (!isset($route['prefix'])) {
                     $route['prefix'] = '';
                 } else {

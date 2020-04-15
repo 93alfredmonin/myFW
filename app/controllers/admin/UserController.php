@@ -11,26 +11,23 @@ namespace app\controllers\admin;
 use vendor\core\base\View;
 
 /**
- * Description of UserController
+ * Description of User
  *
  * @author alfred
  */
 class UserController extends AppController {
-    public $layout = 'default';
-
+    
     public function indexAction() {
-        View::setMeta('Админка :: Главная страница', 'Описание админки', 'Ключевые слова админки');
+        View::setMeta('Админка :: Главная страница', 'Описание админки', 'Ключевики админки');
         $test = 'test var';
-        $data = ['test', '2'];
-//        $this->set([
-//            'test'=>$test,
-//            'data'=>$data,
-//        ]);
+
+        $data = ['svdsdv', 159];
+
         $this->set(compact('test', 'data'));
     }
 
     public function testAction() {
-        $this->layout = 'admin';
+        
     }
 
 }

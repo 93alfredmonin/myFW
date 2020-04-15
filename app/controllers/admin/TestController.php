@@ -9,18 +9,18 @@
 namespace app\controllers\admin;
 
 /**
- * Description of UserController
+ * Description of User
  *
  * @author alfred
  */
 class TestController extends AppController {
 
     public function indexAction() {
-        echo __METHOD__;
+       
     }
 
     public function testAction() {
-        echo __METHOD__;
+        
     }
 
 }
