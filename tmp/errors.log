@@ -1,4 +1,4 @@
-[2020-04-15 14 : 47 : 29] Текст ошибки: Class 'PHPMailer' not found | Файл: /home/alfred/php curs online/fw/app/controllers/MainController.php | Строка: 28
+ [2020-04-15 14 : 47 : 29] Текст ошибки: Class 'PHPMailer' not found | Файл: /home/alfred/php curs online/fw/app/controllers/MainController.php | Строка: 28
 
 **********
 
@@ -51,6 +51,166 @@
 **********
 
 [2020-04-15 14 : 55 : 32] Текст ошибки: Undefined variable: mailer | Файл: /home/alfred/php curs online/fw/app/controllers/MainController.php | Строка: 35
+
+**********
+
+[2020-04-17 13 : 12 : 40] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/fw/core/Router.php | Строка: 66
+
+**********
+
+[2020-04-17 13 : 13 : 20] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/fw/core/Router.php | Строка: 66
+
+**********
+
+[2020-04-17 13 : 13 : 21] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/fw/core/Router.php | Строка: 66
+
+**********
+
+[2020-04-17 13 : 13 : 51] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/fw/core/Router.php | Строка: 66
+
+**********
+
+[2020-04-17 13 : 13 : 51] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/fw/core/Router.php | Строка: 66
+
+**********
+
+[2020-04-17 13 : 13 : 52] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/fw/core/Router.php | Строка: 66
+
+**********
+
+[2020-04-17 13 : 13 : 52] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/fw/core/Router.php | Строка: 66
+
+**********
+
+[2020-04-17 13 : 15 : 11] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/fw/core/Router.php | Строка: 66
+
+**********
+
+[2020-04-17 13 : 15 : 15] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/fw/core/Router.php | Строка: 66
+
+**********
+
+[2020-04-17 13 : 16 : 23] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/fw/core/Router.php | Строка: 66
+
+**********
+
+[2020-04-17 13 : 16 : 23] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/fw/core/Router.php | Строка: 66
+
+**********
+
+[2020-04-17 13 : 16 : 24] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/fw/core/Router.php | Строка: 66
+
+**********
+
+[2020-04-17 13 : 16 : 24] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/fw/core/Router.php | Строка: 66
+
+**********
+
+[2020-04-17 13 : 16 : 24] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/fw/core/Router.php | Строка: 66
+
+**********
+
+[2020-04-17 13 : 16 : 24] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/fw/core/Router.php | Строка: 66
+
+**********
+
+[2020-04-17 13 : 16 : 24] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/fw/core/Router.php | Строка: 66
+
+**********
+
+[2020-04-17 13 : 16 : 24] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/fw/core/Router.php | Строка: 66
+
+**********
+
+[2020-04-17 13 : 16 : 25] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/fw/core/Router.php | Строка: 66
+
+**********
+
+[2020-04-17 13 : 16 : 25] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/fw/core/Router.php | Строка: 66
+
+**********
+
+[2020-04-17 13 : 21 : 07] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/fw/core/Router.php | Строка: 66
+
+**********
+
+[2020-04-17 13 : 21 : 33] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/fw/core/Router.php | Строка: 66
+
+**********
+
+[2020-04-17 13 : 21 : 34] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/fw/core/Router.php | Строка: 66
+
+**********
+
+[2020-04-17 13 : 21 : 35] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/fw/core/Router.php | Строка: 66
+
+**********
+
+[2020-04-17 13 : 21 : 37] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/fw/core/Router.php | Строка: 66
+
+**********
+
+[2020-04-17 13 : 21 : 37] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/fw/core/Router.php | Строка: 66
+
+**********
+
+[2020-04-17 13 : 21 : 37] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/fw/core/Router.php | Строка: 66
+
+**********
+
+[2020-04-17 13 : 21 : 38] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/fw/core/Router.php | Строка: 66
+
+**********
+
+[2020-04-17 13 : 22 : 35] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/fw/core/Router.php | Строка: 66
+
+**********
+
+[2020-04-17 13 : 23 : 35] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/fw/core/Router.php | Строка: 66
+
+**********
+
+[2020-04-17 13 : 27 : 37] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/fw/core/Router.php | Строка: 66
+
+**********
+
+[2020-04-17 13 : 29 : 03] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/fw/core/Router.php | Строка: 67
+
+**********
+
+[2020-04-17 13 : 29 : 21] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/fw/core/Router.php | Строка: 67
+
+**********
+
+[2020-04-17 13 : 29 : 43] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/fw/core/Router.php | Строка: 66
+
+**********
+
+[2020-04-17 13 : 32 : 34] Текст ошибки: Контроллер <b>app\controllers\PostssnewController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/fw/core/Router.php | Строка: 66
+
+**********
+
+[2020-04-17 13 : 34 : 31] Текст ошибки: Контроллер <b>app\controllers\UserController</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/fw/core/Router.php | Строка: 66
+
+**********
+
+[2020-04-17 13 : 35 : 26] Текст ошибки: Метод <b>app\controllers\UserController::indexAction</b> не найден | Файл: /home/alfred/php curs online/fw/vendor/fw/core/Router.php | Строка: 62
+
+**********
+
+[2020-04-17 13 : 35 : 35] Текст ошибки: <p>Не найден вид <b>/home/alfred/php curs online/fw/app/views//User/signup.php</b></p> | Файл: /home/alfred/php curs online/fw/vendor/fw/core/base/View.php | Строка: 46
+
+**********
+
+[2020-04-17 13 : 36 : 38] Текст ошибки: <p>Не найден вид <b>/home/alfred/php curs online/fw/app/views//User/logout.php</b></p> | Файл: /home/alfred/php curs online/fw/vendor/fw/core/base/View.php | Строка: 46
+
+**********
+
+[2020-04-17 13 : 38 : 29] Текст ошибки: <p>Не найден вид <b>/home/alfred/php curs online/fw/app/views//User/logout.php</b></p> | Файл: /home/alfred/php curs online/fw/vendor/fw/core/base/View.php | Строка: 46
+
+**********
+
+[2020-04-17 14 : 40 : 53] Текст ошибки: Rule 'lenghtMin' has not been registered with Valitron\Validator::addRule(). | Файл: /home/alfred/php curs online/fw/vendor/vlucas/valitron/src/Valitron/Validator.php | Строка: 1383
 
 **********
 

@@ -26,6 +26,9 @@
                 <li><a href="/">Home</a></li>
                 <li><a href="/page/about">About</a></li>
                 <li><a href="/admin">Admin</a></li>
+                <li><a href="/user/signup">Signup</a></li>
+                <li><a href="/user/login">Login</a></li>
+                <li><a href="/user/logout">Logout</a></li>
 
             </ul>
 

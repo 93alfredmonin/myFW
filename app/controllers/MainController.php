@@ -32,7 +32,7 @@ class MainController extends AppController {
 
 // Instantiation and passing `true` enables exceptions
         $mail = new PHPMailer(true);
-        var_dump($mail);
+       // var_dump($mail);
 
         $model = new Main;
         $posts = \R::findAll('posts');
