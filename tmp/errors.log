@@ -214,3 +214,15 @@
 
 **********
 
+[2020-04-21 14 : 34 : 36] Текст ошибки: Undefined variable: _SESSION | Файл: /home/alfred/php curs online/fw/app/views/layouts/default.php | Строка: 32
+
+**********
+
+[2020-04-21 14 : 55 : 05] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1@1.com' for key 'unique_email' | Файл: /home/alfred/php curs online/fw/vendor/fw/libs/rb.php | Строка: 810
+
+**********
+
+[2020-04-21 14 : 57 : 08] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'user1' for key 'unique_login' | Файл: /home/alfred/php curs online/fw/vendor/fw/libs/rb.php | Строка: 810
+
+**********
+

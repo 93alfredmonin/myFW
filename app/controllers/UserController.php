@@ -23,12 +23,17 @@ class UserController extends AppController {
             $user = new User();
             $data = $_POST;
             $user->load($data);
-            if ($user->validate($data)) {
-                echo 'ok';
-            } else {
-                echo 'no';
+            if (!$user->validate($data)) {
+                $user->getErros();
+                redirect();
             }
-            die();
+            $user->attributes['password'] = password_hash($user->attributes['password'] , PASSWORD_DEFAULT);
+            if ($user->save('user')) {
+                $_SESSION['success'] = 'Вы успешно зарегистрированы';
+            } else {
+                $_SESSION['error'] = 'Ошибка попробуйте позже';
+            }
+            redirect();
         }
         View::setMeta('Регтстрация');
     }
