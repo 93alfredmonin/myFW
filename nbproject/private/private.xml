@@ -3,8 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/alfred/php%20curs%20online/fw/composer.json</file>
-            <file>file:/home/alfred/php%20curs%20online/fw/app/controllers/MainController.php</file>
+            <file>file:/home/alfred/php%20curs%20online/fw/app/controllers/UserController.php</file>
+            <file>file:/home/alfred/php%20curs%20online/fw/app/views/User/signup.php</file>
+            <file>file:/home/alfred/php%20curs%20online/fw/app/models/User.php</file>
+            <file>file:/home/alfred/php%20curs%20online/fw/vendor/fw/core/base/Model.php</file>
+            <file>file:/home/alfred/php%20curs%20online/fw/vendor/fw/libs/functions.php</file>
         </group>
     </open-files>
 </project-private>
