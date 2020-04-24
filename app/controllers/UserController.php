@@ -56,6 +56,9 @@ class UserController extends AppController {
         if(isset($_SESSION['user'])){
             unset($_SESSION['user']);
             redirect('/user/login');
+        } elseif (!isset($_SESSION['user'])){
+             $_SESSION['error'] = 'Вы еще не авторизовались';
+               redirect('/user/login');
         }
     }
 
