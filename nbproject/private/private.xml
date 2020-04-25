@@ -5,9 +5,11 @@
         <group>
             <file>file:/home/alfred/php%20curs%20online/fw/app/controllers/UserController.php</file>
             <file>file:/home/alfred/php%20curs%20online/fw/app/views/User/signup.php</file>
+            <file>file:/home/alfred/php%20curs%20online/fw/vendor/fw/core/base/View.php</file>
+            <file>file:/home/alfred/php%20curs%20online/fw/app/views/layouts/default.php</file>
             <file>file:/home/alfred/php%20curs%20online/fw/app/models/User.php</file>
             <file>file:/home/alfred/php%20curs%20online/fw/vendor/fw/core/base/Model.php</file>
-            <file>file:/home/alfred/php%20curs%20online/fw/vendor/fw/libs/functions.php</file>
+            <file>file:/home/alfred/php%20curs%20online/fw/app/views/User/login.php</file>
         </group>
     </open-files>
 </project-private>

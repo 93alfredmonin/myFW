@@ -32,20 +32,46 @@ class View {
         $this->view = $view;
     }
 
+    protected function compressPage($buffer) {
+
+        $search = [
+            "/(\n)+/",
+            "/\r\n+/",
+            "/\n(\t)+/",
+            "/\n(\ )+/",
+            "/\>(\n)+</",
+            "/\>\r\n</",
+        ];
+        $replase = [
+            "\n",
+            "\n",
+            "\n",
+            "\n",
+            '><',
+            '><',
+        ];
+        return preg_replace($search, $replase, $buffer);
+    }
+
     public function render($vars) {
         if (is_array($vars))
             extract($vars);
         $prefixView = rtrim($this->route['prefix'], '\\');
         $prefixView .= '/';
         $file_view = APP . "/views/{$prefixView}{$this->route['controller']}/{$this->view}.php";
-        ob_start();
-        if (is_file($file_view)) {
-            require $file_view;
-        } else {
-//            echo "<p>Не найден вид <b>$file_view</b></p>";
-            throw new \Exception("<p>Не найден вид <b>$file_view</b></p>", 404);
+        ob_start([$this, 'compressPage']);
+        {
+            if (is_file($file_view)) {
+                require $file_view;
+            } else {
+
+                throw new \Exception("<p>Не найден вид <b>$file_view</b></p>", 404);
+            }
         }
-        $content = ob_get_clean();
+
+        $content = ob_get_contents();
+        ob_clean();
+        //$content = ob_get_clean();
 
 
         if (false !== $this->layout) {
@@ -56,10 +82,10 @@ class View {
                 if (!empty($this->scripts[0])) {
                     $scripts = $this->scripts[0];
                 }
-                //debug($scripts);
+
                 require $file_layout;
             } else {
-//                echo "<p>Не найден шаблн <b>$file_layout</b></p>";
+
                 throw new \Exception("<p>Не найден шаблн <b>$file_layout</b></p>", 404);
             }
         }

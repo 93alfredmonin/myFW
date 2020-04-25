@@ -48,7 +48,7 @@
                 </div>
             <?php endif; ?>
 
-<?php debug($_SESSION);?>
+
 
             <?= $content ?>
 
