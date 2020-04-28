@@ -6,7 +6,7 @@
  * and open the template in the editor.
  */
 
-namespace vendor\fw\libs;
+namespace fw\libs;
 
 /**
  * Description of Pagenation
@@ -104,7 +104,7 @@ class Pagenation {
     }
 
     public function getParams() {
-        $url = $_SERVER['REQUST_URI'];
+        $url = $_SERVER['REQUEST_URI'];
         $url = explode('?', $url); //проверить сдесь
         $uri = $url[0] . '?';
         if (isset($url[1]) && $url[1] != '') {

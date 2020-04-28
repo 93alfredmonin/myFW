@@ -242,3 +242,23 @@
 
 **********
 
+[2020-04-28 11 : 41 : 15] Текст ошибки: Too few arguments to function fw\libs\Pagenation::__construct(), 0 passed in /home/alfred/php curs online/fw/app/controllers/MainController.php on line 40 and exactly 3 expected | Файл: /home/alfred/php curs online/fw/vendor/fw/libs/Pagenation.php | Строка: 24
+
+**********
+
+[2020-04-28 11 : 58 : 19] Текст ошибки: Undefined index: REQUST_URI | Файл: /home/alfred/php curs online/fw/vendor/fw/libs/Pagenation.php | Строка: 107
+
+**********
+
+[2020-04-28 12 : 11 : 27] Текст ошибки: Undefined variable: count | Файл: /home/alfred/php curs online/fw/app/views/Main/index.php | Строка: 35
+
+**********
+
+[2020-04-28 12 : 12 : 05] Текст ошибки: Страница не найдена | Файл: /home/alfred/php curs online/fw/vendor/fw/core/Router.php | Строка: 71
+
+**********
+
+[2020-04-28 12 : 13 : 46] Текст ошибки: Страница не найдена | Файл: /home/alfred/php curs online/fw/vendor/fw/core/Router.php | Строка: 71
+
+**********
+

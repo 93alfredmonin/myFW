@@ -31,6 +31,12 @@
                 </div>
             </div>
         <?php endforeach; ?>
+        <div class="text-center">
+            <p>Статей: <?= count($posts); ?> из <?= $total; ?></p>
+            <?php if ($pagenation->countPages > 1): ?>
+                <?= $pagenation ?>
+            <?php endif; ?>
+        </div>
     <?php endif; ?>
 </div>
 
