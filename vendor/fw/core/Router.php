@@ -87,7 +87,7 @@ class Router {
             if (false === strpos($params[0], '=')) {
                 return rtrim($params[0], '/');
             } else {
-                return ' ';
+                return '';
             }
         }
     }
